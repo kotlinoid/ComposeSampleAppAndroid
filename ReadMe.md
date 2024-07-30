@@ -5,9 +5,6 @@
     <h1 align="left">COMPOSESAMPLEAPPANDROID</h1>
 </p>
 <p align="left">
-    <em>HTTP error 401 for prompt `slogan`</em>
-</p>
-<p align="left">
 	<img src="https://img.shields.io/github/license/kotlinoid/ComposeSampleAppAndroid?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/kotlinoid/ComposeSampleAppAndroid?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/kotlinoid/ComposeSampleAppAndroid?style=flat&color=0080ff" alt="repo-top-language">
@@ -35,18 +32,6 @@
 > - [ Contributing](#-contributing)
 > - [ License](#-license)
 > - [ Acknowledgments](#-acknowledgments)
-
----
-
-##  Overview
-
-HTTP error 401 for prompt `overview`
-
----
-
-##  Features
-
-HTTP error 401 for prompt `features`
 
 ---
 
@@ -246,12 +231,6 @@ Contributions are welcome! Here are several ways you can contribute:
 Once your PR is reviewed and approved, it will be merged into the main branch.
 
 </details>
-
----
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
 
